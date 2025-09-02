@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ## Contatos:
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -23,4 +25,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div class="tenor-gif-embed" data-postid="616683848060071562" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-pressing-buttons-hacker-hacking-gif-616683848060071562">Computer Pressing Sticker</a>from <a href="https://tenor.com/search/computer-stickers">Computer Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6a979710-c888-464e-8c31-652cd80e4b22" />
+
