@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/7d4c8cbd-7d4a-48b8-b1c5-7601cab5d6b0" />
+<div class="tenor-gif-embed" data-postid="616683848060071562" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-pressing-buttons-hacker-hacking-gif-616683848060071562">Computer Pressing Sticker</a>from <a href="https://tenor.com/search/computer-stickers">Computer Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
