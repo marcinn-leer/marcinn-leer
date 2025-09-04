@@ -1,10 +1,16 @@
-<h1>Olá!Eu sou o Márcio e você está no meu GitHub :D<h1>
+<h1>Olá!Eu sou o Márcio e você está no meu GitHub :D<h1>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcinn-leer&show_icons=true&theme=dark)
+
 <br>
-<h2>Coisas que sei/Estou aprendendo</h2>
- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+Coisas que sei/Estou aprendendo:
+<br>
+ <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+ <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+ <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+ <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
+          
       
                    
 <!--
