@@ -1,10 +1,11 @@
 <h1>Olá!Eu sou o Márcio e você está no meu GitHub :D<h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcinn-leer&show_icons=true&theme=dark)
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+                   
 <!--
-**marcinn-leer/marcinn-leer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,5 +27,5 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcinn-leer&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
