@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcinn-leer&show_icons=true)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcinn-leer&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
