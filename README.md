@@ -19,3 +19,6 @@
 </div>
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/3ad9ccd4-a096-48e3-9c82-01fafd6a89dd)
+
+![Snake animation](https://github.com/marcinn-leer/marcinn-leer/blob/output/github-contribution-grid-snake.svg)
+
